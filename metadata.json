@@ -1,0 +1,6 @@
+{
+  "name": "FUI Agents C4ISR - Spatial OS & AI Automation",
+  "description": "Next-gen FUI spatial OS with WebGL 3D command stack, live camera and gesture tracking, speech intelligence, and end-to-end AI automation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
